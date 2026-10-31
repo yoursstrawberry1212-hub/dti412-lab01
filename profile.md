@@ -25,3 +25,14 @@ I expect to improve my programming and software development skills through DTI41
 - Technical skills I want to improve: Python
 - Technologies I want to learn: Django
 - Dream Job Position: Software Developer
+## Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
